@@ -8,6 +8,12 @@ port = 6667
 channel = "#feycomm"
 nick = os.uname()[1] + "09"
 
+def update_init():
+    with open("new_init.sh", "w") as f:
+        # logic to get new content here
+        f.write("UPDATED CONTENT GOES HERE")
+    os.replace("new_init.sh", "init.sh")
+
 def connect_routine(server, port, channel, nick):
     irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     irc.connect((server, port))
