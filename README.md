@@ -11,3 +11,5 @@ Usage is prohibited for nefarious purposes.
 - The bot herder issues commands in the channel.
 - All the bots execute the commands on their end inside a subprocess (non-interactively, so you don't have to worry about clearing the history).
 - They DM the output line-by-line to the botherder. Why line-by-line? Because the server rate-limits the input.
+
+read an in-depth overview of the codebase in this blogpost https://syswraith.github.io/blog/Dissecting-the-Anatomy-of-a-Botnet
