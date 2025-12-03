@@ -1,6 +1,6 @@
 # ngzl
 
-![NGZL icon](https://github.com/syswraith/ngzl/blob/main/assets/ngzl.png)
+![NGZL icon](https://raw.githubusercontent.com/syswraith/ngzl/refs/heads/master/ngzl.png)
 
 ### Why?
 
