@@ -17,4 +17,4 @@ Usage is prohibited for nefarious purposes.
 - They DM the output line-by-line to the botherder. Why line-by-line? Because the server rate-limits the input.
 
 Read an in-depth overview of the codebase in this blogpost
-<https://syswraith.github.io/blog/Dissecting-the-Anatomy-of-a-Botnet>
+<https://syswraith.github.io/blog/Blog/Dissecting-the-Anatomy-of-a-Botnet>
